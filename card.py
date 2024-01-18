@@ -30,7 +30,7 @@ class CardDeck:
     def deal_cards(self, num_cards):        # I wasn't exactly sure how to deal the cards; I kept getting error messages, so I asked ChatGPT for help.
         """
         Deals the cards to the players. Given by ChatGPT.
-        :param num_cards:
+        :param num_cards: amount of cards
         :return: returns the cards which have been dealt to each player.
         """
         return self.deck[:num_cards]        # self.deck refers to the deck of cards created earlier.
