@@ -1,4 +1,6 @@
-# main.py
+# Jack Fones
+# 1-18-2024
+# This code simulates playing the card game "war" with 2 players.
 
 from testing_card import CompareGame
 
